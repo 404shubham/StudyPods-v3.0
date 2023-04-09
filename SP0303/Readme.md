@@ -61,10 +61,10 @@ SP03\_\_ is an amazing team built by the efforts of its team members and the sup
 
 ### Team
 
-Person1<br>
-Person2<br>
-Person3<br>
-Person4<br>
+Palak Rawat<br>
+Shubham Gaur<br>
+Shubham Kumar<br>
+Bhanu gupta<br>
 
 ### Mentor
 
